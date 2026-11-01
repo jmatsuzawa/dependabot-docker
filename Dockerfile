@@ -1,1 +1,1 @@
-FROM python:3.14.9-slim
+FROM python:3.15.0-slim
